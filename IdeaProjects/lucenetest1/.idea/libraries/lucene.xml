@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="lucene">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/analyzers-common" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/analyzers-icu" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/analyzers-kuromoji" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/analyzers-morfologik" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/analyzers-phonetic" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/analyzers-smartcn" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/analyzers-stempel" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/analyzers-uima" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/backward-codecs" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/benchmark" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/classification" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/codecs" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/core" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/demo" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/expressions" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/facet" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/grouping" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/highlighter" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/join" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/memory" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/misc" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/queries" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/queryparser" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/replicator" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/sandbox" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/spatial" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/spatial3d" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/suggest" />
+      <root url="file://$USER_HOME$/Documents/lucene-5.5.0 2/docs/test-framework" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

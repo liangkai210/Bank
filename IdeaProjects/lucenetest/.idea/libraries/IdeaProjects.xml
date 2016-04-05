@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="IdeaProjects">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../com.kailiang.karaoke/src" />
+      <root url="file://$PROJECT_DIR$/../crackingincodingpractice/src" />
+      <root url="file://$PROJECT_DIR$/../giflib/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../gowest.kai/src" />
+      <root url="file://$PROJECT_DIR$/../lintcodepractice/src" />
+      <root url="file://$PROJECT_DIR$/../lucenetest1/src" />
+      <root url="file://$PROJECT_DIR$/../reverselinkedlist/src" />
+      <root url="file://$PROJECT_DIR$/../untitled/src" />
+    </SOURCES>
+  </library>
+</component>
